@@ -6,4 +6,11 @@
     </style>
 
     <style name="Theme.TimeMaster" parent="Base.Theme.TimeMaster" />
+    
+    
+    <style name="bottomNavigator">
+        <item name="android:background">@color/green_dark</item>
+        <item name="itemIconTint">@color/green_light_2</item>
+        <item name="itemTextColor">@color/green_light_2</item>
+    </style>
 </resources>
